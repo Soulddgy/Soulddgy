@@ -6,7 +6,7 @@
 <img alt="android studio" src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img alt= "git hub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 
-<img alt="kotlin" src="https://img.shields.io/badge/Kotlin-Language-blue?logo=kotlin"/> <img alt="java" src="https://img.shields.io/badge/Java-Language-blue?logo=java"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-Language-blue?logo=dart"/>
+<img alt="kotlin" src="https://img.shields.io/badge/Kotlin-Language-blue?logo=kotlin"/> <img alt="java" src="https://img.shields.io/badge/Java-Language-blue?logo=Java"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-Language-blue?logo=dart"/>
 
 
 ![Soulddgy's github stats](https://github-readme-stats.vercel.app/api?username=Soulddgy&show_icons=true)
