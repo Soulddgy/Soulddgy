@@ -10,4 +10,4 @@
 <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-Language-blue?logo=kotlin"/> <img alt="java" src="https://img.shields.io/badge/Java-Language-blue?logo=Java"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-Language-blue?logo=dart"/>
 
 
-![Soulddgy's github stats](https://github-readme-stats.vercel.app/api?username=Soulddgy&show_icons=true)
+//![Soulddgy's github stats](https://github-readme-stats.vercel.app/api?username=Soulddgy&show_icons=true)
