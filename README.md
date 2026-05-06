@@ -1,6 +1,6 @@
 # Kim Sol
 
-소규모 IoT 제품에서 체득한 설계 사고를 대규모 실사용 서비스에서 검증하고 싶은 모바일 개발자입니다.  
+경험에서 체득한 설계 사고를 실사용 서비스에서 검증하고 싶은 모바일 개발자입니다.  
 도메인과 스택에 구애받지 않고, 어떤 문제가 들어와도 시스템 설계 방향을 결정할 수 있는 개발자를 목표로 합니다.
 
 `Flutter` `Android` `Kotlin` `BLE / MQTT` `IoT`  
@@ -61,6 +61,6 @@ IMU 센서 데이터 수집 자동화, 다수 BLE 기기 동시 모니터링 등
 | **Language** | Dart · Kotlin · Java · JavaScript |
 | **Mobile** | Flutter · Android (Jetpack Compose · Hilt) |
 | **Web / Server** | React · Node.js · MariaDB |
-| **IoT** | BLE · MQTT · OTA DFU · WebSocket · Background Service |
-| **Architecture** | MVVM · Clean Architecture · MVC |
-| **Tools** | Firebase · Figma · Postman · Wireshark |
+| **Communication** | BLE · MQTT · OTA DFU · WebSocket · Background Service |
+| **Architecture** | Clean Architecture · MVVM · MVC |
+| **Tools** | Cluade Code · Cursor · Firebase · Figma · Postman · Wireshark|
